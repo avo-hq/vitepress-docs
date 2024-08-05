@@ -224,6 +224,12 @@ const config = {
             {text: "Icons", link: "/3.0/icons.html"},
           ],
         },
+        {
+          text: "Custom id's",
+          items: [
+            { text: "Custom ID", link: "/3.0/custom_ID's/custom-id's.md" },
+          ],
+        },
         // {
         //   text: "Extending",
         //   items: [
